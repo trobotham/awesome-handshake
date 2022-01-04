@@ -79,6 +79,12 @@ A collection of awesome things regarding the Handshake ecosystem.
 - [Handypedia](https://en.handypedia.org/wiki/Main_Page)
 - [hsd-dev](https://hsd-dev.org)
 
+#### Articles
+- [The Case for Handshake](https://medium.com/amentum/the-case-for-handshake-9b0af0d989fe)
+- [mz blog](https://matthewzipkin.medium.com/)
+- [Opera to integrate Handshake](https://blogs.opera.com/news/2021/12/opera-handshake-hns-partnership/)
+- [ICANN Buyer Beware](https://www.icann.org/en/blogs/details/buyer-beware-not-all-names-are-created-equal-24-11-2021-en)
+
 #### Other/Unsorted
 - [Namebase](https://namebase.io) - domain registrar and exchange for Handshake
 - [Handshake Proxy](https://github.com/handshake-cn/handshakeproxy) - Http(s) proxy can visit handshake domain.
@@ -94,9 +100,7 @@ A collection of awesome things regarding the Handshake ecosystem.
 - [Handover](https://github.com/imperviousinc/handover)
 - [Handout](https://github.com/pinheadmz/handout)
 - [hs-anyone](https://github.com/pinheadmz/hs-anyone)
-- [The Case for Handshake](https://medium.com/amentum/the-case-for-handshake-9b0af0d989fe)
 - [Handshake Alliance](https://handshakealliance.org/)
-- [mz blog](https://matthewzipkin.medium.com/)
 
 ### Contribution
 
