@@ -90,7 +90,9 @@ A collection of awesome things regarding the Handshake ecosystem.
 - [tynes/awesome-handshake](https://github.com/tynes/awesome-handshake)
 - [rsd](https://github.com/UrkelLabs/rsd) The Rust implementation (WIP)
 - [Bob Wallet](https://github.com/kyokan/bob-wallet) An electron GUI for `hsd`
-- [BlockExplorer Git](https://github.com/kurumiimari/hsexplorer)
+- [kurumiimari BlockExplorer Git](https://github.com/kurumiimari/hsexplorer)
+- [handshake-labs Explorer Git](https://github.com/handshake-labs/explorer)
+- [handshake-labs BlockExplorer Git](https://github.com/handshake-labs/blockexplorer)
 - [Federalist](https://github.com/publiusfederalist/federalist)
 - [Publius](https://github.com/publiusfederalist/publius)
 - [Applause](https://github.com/publiusfederalist/applause)
