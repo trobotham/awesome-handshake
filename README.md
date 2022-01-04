@@ -14,30 +14,29 @@ A collection of awesome things regarding the Handshake ecosystem.
 
 > Decentralized Naming and Certificate Authority
 
+#### Base Code
+- [hsd](https://github.com/handshake-org/hsd) The JavaScript reference implementation
+- [hs-client](https://github.com/handshake-org/hs-client) The JavaScript CLI tools
+- [hnsd](https://github.com/handshake-org/hnsd) The C Light Client reference implementation
+- [hdns](https://github.com/handshake-org/hdns)
+
 #### Handshake Sites
 
 > Requires a Handshake resolver to work
 
 - [rough](http://rough./) - The first Handshake site ever (created by [park.io](https://park.io))
 - [welcome.nb](http://welcome.nb./) - A welcome page for the new Internet
-- [lewi](http://lewi./) - First IPFS website on Handshake!
 - [turbomaze](http://turbomaze./) - Hello World website for using a Handshake TLD as a domain directly. Includes visit counter.
 - [me.turbomaze](http://me.turbomaze./) - Anthony Liu's (Namebase Cofounder and CTO) personal website
 - [mine](http://mine./) - Mining pools for your favorite coins!
-- [hsd.laboratory](http://hsd.laboratory./) - TBD but it currently has cats
 - [:handshake:](http://xn--5p9h./) - Hello world using the :handshake: emoji domain
 - [welcome.2d](http://welcome.2d/) - The first domain registry for Handshake! Check it out to get a free *.2d domain :)
-- [onlinestopwatch](http://onlinestopwatch./) - Simple Stopwatch made with Svelte. [GitHub](https://github.com/k/onlinestopwatch)
 - [timeto.shift](http://timeto.shift./) - Important message for everyone who isn't on Handshake yet
-- [live.ix](http://live.ix/) - DNS.LIVE on Handshake
 - [foda.racascou](http://foda.racascou./) - Play Fight over dat Ancient, the game created by the [Namer Community's](http://namebase.community) Chief Meme Officer
 - [humbly](https://humbly./) - Homepage for projects created by the park.io team
-- [cointoss](http://cointoss./) - Cointoss app on Handshake at an easy-to-remember domain
 - [dwz](http://dwz./) - Alias for CentOS
 - [com.alphaama](http://com.alphaama/) - Crypto related experiements
-- [hns.dataroom](http://hns.dataroom./) - Be notified 20 blocks before the end of an auction and show your interest for a TLD (or your ownership)
 - [i.shifu](http://i.shifu./)
-- [punjabis./](http://punjabis./)
 - [d.yup](http://d.yup./)
 - [kind.thief](http://kind.thief./) - Check out Gonçalo's personal blog on Handshake. Gonçalo cofounded ConsenSys Diligence!
 - [willcroteau](http://willcroteau./) - Some kind of psychedelic game ...?
@@ -46,14 +45,14 @@ A collection of awesome things regarding the Handshake ecosystem.
 - [parking.sinpapeles](http://parking.sinpapeles/) - A free domain parking service & selling domain listing.
 - [bcoin.js](http://bcoin.js/) - Redirects to the bcoin source code repository
 - [hsd.js](http://hsd.js/) - Redirects to the hsd source code repository
-- [domains.tasuki](http://domains.tasuki/) - domains for sale, and [sniper.tasuki](http://sniper.tasuki/) - spot ending-soon HNS auctions
 - [domains.durendil](http://domains.durendil/) - domains for sale
 - [handshake.txt](http://handshake.txt/) - Redirects to the handshake whitepaper
-- [chessboard](http://chessboard./) - View any chess position in FEN notation as a base32 encoded domain
 
 #### Handshake Resolvers
 - [NextDNS](https://nextdns.io) - One of Firefox's Trusted Resolvers. Privacy-focused alternative to Cloudflare and Google
 - [easyhandshake](https://easyhandshake.com/) - How to set up a resolver using a Handshake fullnode
+- [Fingertip](https://impervious.com/fingertip.html) - TLS and DNS support for Handshake in your browser.
+- [hdns.io](https://www.hdns.io/)
 
 #### Handshake-Compatible Deployment Services
 - Amazon S3
@@ -68,11 +67,32 @@ A collection of awesome things regarding the Handshake ecosystem.
 - [Dev Telegram](https://t.me/hns_tech)
 - [Reddit](https://reddit.com/r/handshake)
 
-#### Other
-- [Namebase](https://namebase.io) - domain registrar and exchange for Handshake
+#### Block Explorers
 - [HSD Tools](https://hsd.tools) - Handshake auction lists
 - [DNS.LIVE](https://dns.live) - Handshake stats and free hosting
+- [Shakescan](https://shakescan.com/)
+- [HNScan](https://hnscan.com/)
+- [Block Explorer](https://blockexplorer.com)
+- [HNS Network](https://hnsnetwork.com/)
+
+#### Documentation
+- [Handypedia](https://en.handypedia.org/wiki/Main_Page)
+- [hsd-dev](https://hsd-dev.org)
+
+#### Other/Unsorted
+- [Namebase](https://namebase.io) - domain registrar and exchange for Handshake
 - [Handshake Proxy](https://github.com/handshake-cn/handshakeproxy) - Http(s) proxy can visit handshake domain.
+- [hschoenburg/awesome-handshake](https://github.com/hschoenburg/awesome-handshake)
+- [namebasehq/awesome-handshake](https://github.com/namebasehq/awesome-handshake)
+- [tynes/awesome-handshake](https://github.com/tynes/awesome-handshake)
+- [rsd](https://github.com/UrkelLabs/rsd) The Rust implementation (WIP)
+- [Bob Wallet](https://github.com/kyokan/bob-wallet) An electron GUI for `hsd`
+- [BlockExplorer Git](https://github.com/kurumiimari/hsexplorer)
+- [Federalist](https://github.com/publiusfederalist/federalist)
+- [Publius](https://github.com/publiusfederalist/publius)
+- [Applause](https://github.com/publiusfederalist/applause)
+- [Handover](https://github.com/imperviousinc/handover)
+- [Handout](https://github.com/pinheadmz/handout)
 
 ### Contribution
 
