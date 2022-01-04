@@ -93,6 +93,7 @@ A collection of awesome things regarding the Handshake ecosystem.
 - [Applause](https://github.com/publiusfederalist/applause)
 - [Handover](https://github.com/imperviousinc/handover)
 - [Handout](https://github.com/pinheadmz/handout)
+- [hs-anyone](https://github.com/pinheadmz/hs-anyone)
 
 ### Contribution
 
