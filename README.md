@@ -94,6 +94,9 @@ A collection of awesome things regarding the Handshake ecosystem.
 - [Handover](https://github.com/imperviousinc/handover)
 - [Handout](https://github.com/pinheadmz/handout)
 - [hs-anyone](https://github.com/pinheadmz/hs-anyone)
+- [The Case for Handshake](https://medium.com/amentum/the-case-for-handshake-9b0af0d989fe)
+- [Handshake Alliance](https://handshakealliance.org/)
+- [mz blog](https://matthewzipkin.medium.com/)
 
 ### Contribution
 
