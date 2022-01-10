@@ -82,6 +82,10 @@ A collection of awesome things regarding the Handshake ecosystem.
 - [Opera to integrate Handshake](https://blogs.opera.com/news/2021/12/opera-handshake-hns-partnership/)
 - [ICANN Buyer Beware](https://www.icann.org/en/blogs/details/buyer-beware-not-all-names-are-created-equal-24-11-2021-en)
 
+#### Social
+- [Truely decentralized, immutable and uncesorable microblogging](https://github.com/publiusfederalist/zooko)
+- [Encrypt and decrypt messages using AES with a preshared ECDH key generated using keys associated with Handshake names](https://github.com/publiusfederalist/zooko-msg)
+
 #### Other/Unsorted
 - [Namebase](https://namebase.io) - domain registrar and exchange for Handshake
 - [Handshake Proxy](https://github.com/handshake-cn/handshakeproxy) - Http(s) proxy can visit handshake domain.
