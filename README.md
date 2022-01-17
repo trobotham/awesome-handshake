@@ -104,6 +104,12 @@ A collection of awesome things regarding the Handshake ecosystem.
 - [Handout](https://github.com/pinheadmz/handout)
 - [hs-anyone](https://github.com/pinheadmz/hs-anyone)
 - [Handshake Alliance](https://handshakealliance.org/)
+- [LetsDANE](https://github.com/buffrr/letsdane)
+- [CoreDNS and DANE](https://github.com/Mattsky/HNS_howto/tree/main/CoreDNS_DNSSEC_DANE#self-signed-certificate)
+- [PowerDNS and DANE](https://blog.htools.work/posts/hns-pdns-nginx/)
+- [Marketing Assets](https://community.namebase.io/marketing-assets)
+- [Content](https://community.namebase.io/content)
+- [Directors](https://community.namebase.io/directors)
 
 ### Contribution
 
