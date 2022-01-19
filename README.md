@@ -110,6 +110,7 @@ A collection of awesome things regarding the Handshake ecosystem.
 - [Marketing Assets](https://community.namebase.io/marketing-assets)
 - [Content](https://community.namebase.io/content)
 - [Directors](https://community.namebase.io/directors)
+- [HNSNameClaim](https://www.hnsnameclaim.com/)
 
 ### Contribution
 
